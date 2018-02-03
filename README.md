@@ -1,3 +1,3 @@
 # TutorsPoint
 An online platform for video tutorial on various courses based on Real Time Streaming.
-!['Student Login'](/Screenshots/StudentLogin.png)
+!['Student Login'](/Screenshots/StudentLogin.png "Student Login")
